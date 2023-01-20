@@ -1,0 +1,55 @@
+*{
+    list-style: none;
+    text-decoration: none;
+}
+/* header start */
+.header {
+    background-color: #264653;
+}
+
+/* banner start here */
+.banner-text {
+    color: #FFFFFF;
+}
+
+.banner-header {
+    color: #FFFFFF;
+}
+
+.cvr-btn {
+    background-color: #E76F51;
+    color: #FFFFFF;
+}
+
+/* fetured strt */
+.fetured-text {
+    color: #E76F51;
+}
+
+/* latest news start here */
+.cvr-btn2 {
+    background-color: solid transparent;
+    border: 1px solid #E76F51;
+    color: #E76F51;
+}
+
+.cvr-btn2:hover {
+    background-color: #E76F51;
+    border: 1px solid #FFFFFF;
+    color: #FFFFFF;
+}
+
+/* clint start here */
+.fa-solid {
+color: #E77C40;
+}
+.clint-card {
+width: 300px;
+text-align: center;
+margin: 0 auto;
+}
+/* footer start here */
+footer{
+    background-color: #0B0D17;
+    color: #FFFFFF;
+}
